@@ -1,0 +1,30 @@
+{
+  "name": "Toons-Gram",
+  "version": "1.0.0",
+  "description": "A social media App for users to show-off and learn about Cartoons and Anime.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarshantam99/Toons-Gram.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarshantam99/Toons-Gram/issues"
+  },
+  "homepage": "https://github.com/kumarshantam99/Toons-Gram#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^15.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
